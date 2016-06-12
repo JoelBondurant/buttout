@@ -1,2 +1,2 @@
 # buttout
-A utility to control prolific and invasive webscale snooping / aka online advertising.
+A utility to control prolific invasive webscale snooping / aka online advertising.
